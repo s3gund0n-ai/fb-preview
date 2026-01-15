@@ -1,2 +1,2 @@
 # fb-preview
-fbprev
+fb.html
